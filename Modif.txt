@@ -1,1 +1,3 @@
 Bonjour à tous 
+j'ai effectué des retours sur la différence entre git merge et git rebase .
+Cordialement 
