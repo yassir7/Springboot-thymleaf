@@ -32,8 +32,8 @@ public class Student {
     @Column(name="last_name")
     private String lastName;
     
-    @Column(name="email")
-    private String email;    
+    @Column(name="emailsss")
+    private String emailsss;    
     
     
     // relacion muchos a muchos con cursos
