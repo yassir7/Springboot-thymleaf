@@ -28,7 +28,7 @@ public class Course implements Serializable {
     
     private int modules;
     
-    private double credits;
+    private double credit;
     
     private double fee;
 
